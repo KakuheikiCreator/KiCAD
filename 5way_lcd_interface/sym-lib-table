@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "5way_lcd_interface-rescue")(type "KiCad")(uri "${KIPRJMOD}/5way_lcd_interface-rescue.kicad_sym")(options "")(descr ""))
+)
